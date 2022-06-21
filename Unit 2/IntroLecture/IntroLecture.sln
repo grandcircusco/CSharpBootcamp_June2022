@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntroLecture", "IntroLecture\IntroLecture.csproj", "{812DDC4F-177A-489C-B1F2-89B57187DA36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{812DDC4F-177A-489C-B1F2-89B57187DA36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{812DDC4F-177A-489C-B1F2-89B57187DA36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{812DDC4F-177A-489C-B1F2-89B57187DA36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{812DDC4F-177A-489C-B1F2-89B57187DA36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F69D33F-CAEA-4B04-8898-B6C0E86E0F64}
+	EndGlobalSection
+EndGlobal
