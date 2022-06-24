@@ -83,3 +83,8 @@ if(choice.ToLower().Trim() == "yes")
 {
     Console.WriteLine("good choice");
 }
+
+
+// Given a string put the first letter to the end
+
+// if a word starts with a J or B, change the word to Josh
