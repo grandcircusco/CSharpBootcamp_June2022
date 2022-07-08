@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileIOLecture", "FileIOLecture\FileIOLecture.csproj", "{8CAD3B48-BE8D-4E42-A922-E2E2F249FF2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CAD3B48-BE8D-4E42-A922-E2E2F249FF2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CAD3B48-BE8D-4E42-A922-E2E2F249FF2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CAD3B48-BE8D-4E42-A922-E2E2F249FF2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CAD3B48-BE8D-4E42-A922-E2E2F249FF2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DA1D49F-5918-4214-A78F-2D1CD5F42AEC}
+	EndGlobalSection
+EndGlobal
